@@ -1,0 +1,41 @@
+/* Overwriting styles */
+
+/* Body */
+body {
+    font-family: 'Roboto', sans-serif; /* Change the font family */
+    background-color: #e0e0e0; /* Change the background color */
+  }
+  
+  /* Headings */
+  h1, h2, h3, h4, h5, h6 {
+    color: #333; /* Change heading colors */
+  }
+  
+  /* Navigation */
+  nav {
+    background-color: #f8f8f8; /* Change navigation background color */
+    color: #444; /* Change navigation text color */
+  }
+  
+  nav a {
+    color: #555; /* Change navigation link color */
+  }
+  
+  nav a:hover {
+    background-color: #ddd; /* Change navigation link hover background color */
+  }
+  
+  /* Favorite icon */
+  .favorite-icon {
+    color: blue; /* Change the color of the heart icon */
+  }
+  
+  /* Favorite button */
+  .favorite-button {
+    background-color: green; /* Change the background color of the favorite button */
+    color: white; /* Change the text color of the favorite button */
+  }
+  .favorite-button:hover {
+    background-color: darkgreen; /* Change the background color on hover */
+  }
+  

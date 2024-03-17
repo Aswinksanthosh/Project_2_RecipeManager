@@ -1,0 +1,148 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #333;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+h3, h4, h5 {
+    color: #555;
+}
+
+p {
+    color: #666;
+    line-height: 1.6;
+}
+
+ul, ol {
+    color: #666;
+    margin-bottom: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+h5 {
+    margin-top: 20px;
+}
+
+
+/* 
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.recipe-details {
+    background-color: #7f2f2f;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.recipe-details img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.recipe-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.recipe-description {
+    color: #444;
+    margin-bottom: 20px;
+}
+
+.recipe-instructions,
+.recipe-ingredients {
+    margin-bottom: 20px;
+}
+
+.recipe-instructions h3,
+.recipe-ingredients h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.recipe-instructions p,
+.recipe-ingredients ul {
+    margin-bottom: 10px;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+div {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #333;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+h3, h4, h5 {
+    color: #555;
+}
+
+p {
+    color: #666;
+    line-height: 1.6;
+}
+
+ul, ol {
+    color: #666;
+    margin-bottom: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+h5 {
+    margin-top: 20px;
+}
+
+ol {
+    list-style-type: decimal;
+    margin-left: 20px;
+}
+ */

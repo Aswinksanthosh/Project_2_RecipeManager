@@ -1,0 +1,56 @@
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f4f4f4;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+}
+
+nav {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px;
+  margin: 0 10px;
+}
+
+nav a:hover {
+  background-color: #555;
+  border-radius: 4px;
+
+}
+
+/* CSS for the heart icon */
+.favorite-icon {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  color: red; /* Change the color as desired */
+  font-size: 24px; /* Adjust the size of the heart icon */
+}
+/* CSS */
+.favorite-button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #3498db;
+  color: #fff;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.favorite-button:hover {
+  background-color: #2980b9;
+  transform: scale(1.05);
+}
